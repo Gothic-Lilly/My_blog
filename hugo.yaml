@@ -1,1 +1,4 @@
-theme "ananko"
+theme: "ananko"
+caches:
+  images:
+    dir: :cacheDir/images
